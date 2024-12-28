@@ -84,7 +84,7 @@ class ProductList(ft.Container):
                                                 ft.Text("Quantity", color="black")
                                             ),
                                             ft.DataColumn(
-                                                ft.Text("Acition", color="black")
+                                                ft.Text("Action", color="black")
                                             ),
                                         ],
                                         rows=[
